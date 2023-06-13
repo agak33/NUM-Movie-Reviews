@@ -1,0 +1,12 @@
+md5: f4a96f69e31a274396dc3cae8e87c478
+frozen: true
+deps:
+- path: .
+  repo:
+    url: https://github.com/agak33/NUM-Movie-Reviews-Data
+    rev_lock: de7cd3aa616f750934453f552a52a118ecf0d4ae
+outs:
+- md5: f80e1d83002c7f6e49d79edec775ff56.dir
+  size: 11848171
+  nfiles: 2
+  path: data
