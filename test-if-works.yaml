@@ -1,0 +1,11 @@
+input_features:
+  - name: Phrase
+    type: text
+
+output_features:
+  - name: Sentiment
+    type: category
+
+training:
+  batch_size: 64
+  epochs: 2
