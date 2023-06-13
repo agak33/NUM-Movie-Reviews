@@ -1,2 +1,8 @@
 dvc
-ludwig
+nltk
+gensim
+mlflow
+sklearn
+pandas
+numpy
+plac
